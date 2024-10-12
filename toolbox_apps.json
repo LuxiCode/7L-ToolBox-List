@@ -1,17 +1,19 @@
 {
     "applications": [
       {
-        "name": "Google Chrome",
+        "name": "Supermium",
         "category": "Web Tarayıcı",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png",
+        "description": "Chromium tabanlı eski Google Chrome temasına sahip tarayıcı.",
+        "logo": "https://cdn2.portableapps.com/SupermiumPortable_128.png",
         "download_links": {
-          "_64bit": "https://example.com/downloads/chrome_64bit.exe",
-          "_32bit": "https://example.com/downloads/chrome_32bit.exe"
+          "_64bit": "https://github.com/win32ss/supermium/releases/download/v126-r3/supermium_126_64_setup.exe",
+          "_32bit": "https://github.com/win32ss/supermium/releases/download/v126-r3/supermium_126_32_setup.exe"
         }
       },
       {
         "name": "VLC Media Player",
         "category": "Medya Oynatıcı",
+        "description": "Çoğu video, müzik formatlı dosyaları VLC ile açın.",
         "logo": "https://static-00.iconduck.com/assets.00/vlc-icon-1804x2048-y0eqybk7.png",
         "download_links": {
           "_64bit": "https://example.com/downloads/vlc_64bit.exe",
